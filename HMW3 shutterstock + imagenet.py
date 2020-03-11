@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[ ]:
-
+#Authors:
+#Francisco Carlos Sanchez Ramirez   
+#Mildred Irais Gil Melchor          
+#Victor Sebastian Martínez Pérez    
 
 import os 
 import time
